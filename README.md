@@ -21,4 +21,9 @@
  #### was transformed into this:
  ![alt text](https://github.com/johangenis/TF-2.0-Advanced-Deep-Dream-Project-1-AI-artist/blob/master/chatEtPoissonsRouge_DeepDreamAltered.png "Deep Dream Altered Artwork")
  
+ #### and Vincent van Gogh's Starry Night was transformed from this:
+ ![alt text](https://github.com/johangenis/TF-2.0-Advanced-Deep-Dream-Project-1-AI-artist/blob/master/StaryNight.jpg "Original Artwork")
+ #### to this:
+ ![alt text](https://github.com/johangenis/TF-2.0-Advanced-Deep-Dream-Project-1-AI-artist/blob/master/StarryNightOriginal.png "Deep Dream Altered Artwork")
+ 
 This code is adapted from Tensorflow 2.0 Documentation: https://www.tensorflow.org/beta/tutorials/generative/deepdream
